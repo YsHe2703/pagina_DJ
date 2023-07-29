@@ -1,0 +1,51 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.nota{
+    font-size: 18px;
+    color: lavender;
+}
+
+body{
+    background-size: cover;
+}
+
+.img_speed,.img_volumen{
+    width: 200px;
+}
+
+.speed{
+    float: left;
+}
+
+.volumen{
+    float: right;
+}
+
+#texto_velocidad{
+    font-size: 16px;
+    margin: 15px;
+}
+
+#texto_volumen{
+    font-size: 16px;
+    margin: 15px;
+}
+
+canvas{
+    border: 15px solid blue;
+}
+
+.reproducir{
+    width: 150px;
+    font-size: 25px;
+}
+
+.detener{
+    width: 150px;
+    font-size: 25px;
+    margin-left: 20px;
+}
